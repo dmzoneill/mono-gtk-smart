@@ -1,5 +1,9 @@
 # Smart Broadband Usage
 
+<p align="center">
+  <img src=".github/logo.png" alt="mono-gtk-smart logo" width="128" />
+</p>
+
 A Mono GTK# program that shows broadband usage for Smart Telecom customers in
 Ireland.
 
